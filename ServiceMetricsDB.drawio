@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T12:44:04.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="aNx2hJdY1itE77ylvq65" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T12:45:22.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="CupWvTlnDhe8Qt62_QGY" version="15.7.3" type="github">
   <diagram id="9DmpfjTB166cyUvd4m0v" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="mKVJlOvaHkuobYISGwKr-24" value="Metrics Queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#0000FF;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="550" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mKVJlOvaHkuobYISGwKr-27" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="598" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
